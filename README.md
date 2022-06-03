@@ -1,10 +1,13 @@
 👋 Hi, I’m @saurin1004. 
 
-👀 I’m interested in Web development and Python programming 
+👀 I’m interested in Machine learning and Deep learning projects .
 
-🌱 I’m currently learning Machine Learning. 
+I have worked using HTML, CSS, js, node.js, angularjs, express.js, Python, C, C++.
 
-💞️ I’m looking to collaborate on ...  
+
+🌱 I’m currently learning Deep Learning. 
+
+💞️ I’m looking to collaborate on any interesting and challenging Deep learning project.
 
 📫 How to reach me --> mail me at prajapatisaurin54@gmail.com. 
 
