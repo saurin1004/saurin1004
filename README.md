@@ -2,14 +2,14 @@
 
 👀 I’m interested in Machine learning and Deep learning projects .
 
-I have worked using HTML, CSS, js, node.js, angularjs, express.js, Python, C, C++.
+I have worked using HTML, CSS, Js, Node.js, Angularjs, Express.js, Python, C, C++, Statistical Analysis System (SAS), Tableau, PowerBI.
 
 
 🌱 I’m currently learning Deep Learning. 
 
 💞️ I’m looking to collaborate on any interesting and challenging Deep learning project.
 
-📫 How to reach me --> mail me at prajapatisaurin54@gmail.com. 
+📫 How to reach me --> mail me at spraja14@asu.edu
 
 
 <!---
