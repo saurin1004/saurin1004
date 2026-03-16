@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurin1004&label=Profile%20views&color=0e75b6&style=flat" alt="saurin1004" /> </p>
 
 - 🎓 I’m currently pursuing **Master’s in Computer Science at Arizona State University (2024 - 2026)**  
-- 📚 Coursework: **Distributed Database Systems, Cloud Computing, Software Security, Software Verification Validation and Testing, Algorithms in Computational Biology, Statistical Machine Learning, Data Mining, Data Visualization, Applied Cryptography, Engineering Blockchain Applications, **  
+- 📚 Coursework: **Distributed Database Systems, Cloud Computing, Software Security, Software Verification Validation and Testing, Algorithms in Computational Biology, Statistical Machine Learning, Data Mining, Data Visualization, Applied Cryptography, Engineering Blockchain Applications**  
 - 🔭 I’m currently working on **Spring Boot and AI/ML projects**  
 - 🌱 I’m interested in **Java, Cloud, AI, and Data Science**  
 - 💼 I have professional experience in:  
