@@ -1,12 +1,12 @@
 <h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm Saurin Prajapati</h1>
-<h3 align="left">Grad CS Student @ Arizona State University | Machine Learning Engineer | Data Science & Cloud Computing</h3>
+<h3 align="left">Grad CS Student @ Arizona State University | Software Development Engineer | Data Science & Cloud Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurin1004&label=Profile%20views&color=0e75b6&style=flat" alt="saurin1004" /> </p>
 
 - 🎓 I’m currently pursuing **Master’s in Computer Science at Arizona State University (2024 - 2026)**  
-- 📚 Coursework: **Statistical Machine Learning, Distributed Database Systems, Cloud Computing, Software Security, Data Mining, Software Verification Validation and Testing**  
-- 🔭 I’m currently working on **AI/ML projects**  
-- 🌱 I’m interested in **AI, Data Science, Java, and Cloud Technologies**  
+- 📚 Coursework: **Distributed Database Systems, Cloud Computing, Software Security, Software Verification Validation and Testing, Algorithms in Computational Biology, Statistical Machine Learning, Data Mining, Data Visualization, Applied Cryptography, Engineering Blockchain Applications, **  
+- 🔭 I’m currently working on **Spring Boot and AI/ML projects**  
+- 🌱 I’m interested in **Java, Cloud, AI, and Data Science**  
 - 💼 I have professional experience in:  
   - Developing dashboards with real-time data pipelines using **SAS, Python, and SQL**  
   - Designing & implementing **ETL logic** for data processing  
