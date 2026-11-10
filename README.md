@@ -17,7 +17,9 @@ I build backend services and data pipelines that hold up in production: event-dr
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [**aws-face-recognition-autoscaler**](https://github.com/saurin1004/aws-face-recognition-autoscaler) | Async image-inference service with a queue-driven autoscaler that scales workers out and back to zero, with per-job results and idempotent workers. Redesigned from my CSE 546 project. | Python · FastAPI · SQS · S3 · DynamoDB · EC2 |
 | [**real-time-iot-data-streaming**](https://github.com/saurin1004/real-time-iot-data-streaming) | Simulated Apple Watch telemetry streamed through Kafka into Cassandra, with a REST API and live dashboard | Kafka · Cassandra · Flask · Dash · Docker |
+| [**HabitNest**](https://github.com/saurin1004/HabitNest) ([live demo](https://saurin1004.github.io/HabitNest/)) | Habit tracker with streaks, Google/email sign-in and real-time sync across devices, secured by tested Firestore rules | React · Firebase Auth · Firestore · Vitest |
 | [**twitter-elasticsearch**](https://github.com/saurin1004/twitter-elasticsearch) | Tweet collection, sentiment scoring and full-text search | Elasticsearch · Flask · TextBlob · Plotly |
 | [**edge-cloud-face-recognition**](https://github.com/saurin1004/edge-cloud-face-recognition) | Two-stage face recognition design: detection at the edge, recognition in serverless functions | AWS IoT Greengrass · Lambda · SQS · PyTorch |
 | [**ML-model-deployment-using-Flask-and-GCP**](https://github.com/saurin1004/ML-model-deployment-using-Flask-and-GCP) | A scikit-learn model taken from training to a hosted service | Flask · gunicorn · Google App Engine |
